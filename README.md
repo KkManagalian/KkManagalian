@@ -20,6 +20,14 @@ Ill see if i wanna add them, or make em
 
 <hr>
 
+## Languages
+
+Html, Css, JavaScript, Php
+
+Java, Lua
+
+<hr>
+
 ## Bonus info
 
 More filler text
