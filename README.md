@@ -22,9 +22,11 @@ Ill see if i wanna add them, or make em
 
 ## Languages
 
-Html, Css, JavaScript, Php
+Html, Css, JavaScript, Php, MySql
 
 Java, Lua
+
+C++
 
 <hr>
 
