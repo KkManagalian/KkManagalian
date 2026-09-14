@@ -1,6 +1,7 @@
 <hr>
 
-Hey there! My names Valter, im an aspiring programmer (most likely going into game dev), im currently in my third year of Programming at school.
+## Hey there!  
+My name is Valter, and im an aspiring programmer (most likely going into game dev), im currently in my third year of Programming at school.
 
 <hr>
 
@@ -12,17 +13,15 @@ Currently ive got nothing to show to the public, but hush hush, theres something
 
 ## Languages
 
-Basic experience with web development: Html, Css, JavaScript, Php, MySql
+A plenty good enough understanding of web development languages: Html, Css, JavaScript, Php, MySql
 
-<img width="294" height="183" alt="image" src="https://github.com/user-attachments/assets/442ec097-de8b-4de0-a809-4fc6edce780b" /> <img width="240" height="125" alt="image" src="https://github.com/user-attachments/assets/ef8a16e6-14cd-4cce-9bbd-1ad01d016a2e" /> <img width="240" height="115" alt="image" src="https://github.com/user-attachments/assets/159a157a-48de-40dc-921f-8ed7fca0d0f3" />
+<img width="340" height="165" alt="HCJ" src="https://github.com/user-attachments/assets/7ebfe269-35d6-4b9d-9443-3b1021d0c283" />
 
+ <img width="170" height="82" alt="image" src="https://github.com/user-attachments/assets/ef8a16e6-14cd-4cce-9bbd-1ad01d016a2e" /> <img width="170" height="82" alt="image" src="https://github.com/user-attachments/assets/159a157a-48de-40dc-921f-8ed7fca0d0f3" />
 
-
-
-A very minor and basic understanding of Java and Lua
+A slight understanding of Java and Lua
 
 <img width="200" height="125" alt="image" src="https://github.com/user-attachments/assets/b93bade5-12b1-4926-9224-75457cf10f17" />   <img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/7326a303-788f-4b3a-9844-8a5e536c381a" />
-
 
 And ive dipped my toes into C# and Python
 
@@ -31,10 +30,25 @@ And ive dipped my toes into C# and Python
 
 <hr>
 
-## Bonus info
+## Tools
+### Im plenty capable of using:
 
-Currently a placeholder section
+Microsoft office related apps (Word,Excel,Powerpoint)
 
+Github  
+Visual Studio Code/Visual Studio  
+Unity  
+draw.io  
+
+### And ive played around with:
+Figma  
+GameMaker  
+
+<hr>
+
+## Bonus info:
+Im an amateur artist (Both traditional aswell as digital)  
+Ive gone to music school
 <!--
 **KkManagalian/KkManagalian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
