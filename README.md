@@ -17,7 +17,7 @@ A plenty good enough understanding of web development languages: Html, Css, Java
 
 <img width="340" height="165" alt="HCJ" src="https://github.com/user-attachments/assets/7ebfe269-35d6-4b9d-9443-3b1021d0c283" />
 
- <img width="170" height="82" alt="image" src="https://github.com/user-attachments/assets/ef8a16e6-14cd-4cce-9bbd-1ad01d016a2e" /> <img width="170" height="82" alt="image" src="https://github.com/user-attachments/assets/159a157a-48de-40dc-921f-8ed7fca0d0f3" />
+ <img width="169" height="82" alt="image" src="https://github.com/user-attachments/assets/ef8a16e6-14cd-4cce-9bbd-1ad01d016a2e" /> <img width="169" height="82" alt="image" src="https://github.com/user-attachments/assets/159a157a-48de-40dc-921f-8ed7fca0d0f3" />
 
 A slight understanding of Java and Lua
 
