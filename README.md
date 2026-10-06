@@ -9,6 +9,7 @@ My name is Valter, and im an aspiring programmer (most likely going into game de
 
 Currently ive got a small, unfinished portfolio website live. (It can be found under my profile or here: "<a href="Https://KkManagalian.github.io">Https://KkManagalian.github.io</a>")  
 Im also currently in the midst of creating a small game demo.
+Most of my "finished" project repositories are small demos made within the scope of learning said language/program.
 
 <hr>
 
